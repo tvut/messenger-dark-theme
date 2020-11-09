@@ -7,7 +7,7 @@
     background: #1c1c1c !important;
   }
   ._4sp8 *:not(._2her) {
-    color: white !important;
+    color: #ececec !important;
   }
   ._4sp8 input::placeholder {
     color: #9c9c9c !important;
@@ -28,23 +28,38 @@
     border-top: 1px solid rgba(255, 255, 255, 0.05) !important;
   }
 
+  ._7mki g {
+    fill: #1c1c1c !important;
+  }
+
   ._1enh._7q1s ._58al._7tpc {
     background: #2c2c2c !important;
   }
   ._1enh._7q1s ._5blh path {
-    fill: white !important;
+    fill: #ececec !important;
   }
   ._1enh._7q1s ._6ymu,
+._1enh._7q1s .hzft2hz5,
 ._1enh._7q1s ._6-xp {
     background: #2c2c2c !important;
   }
   ._1enh._7q1s ._6ymu path,
+._1enh._7q1s .hzft2hz5 path,
 ._1enh._7q1s ._6-xp path {
-    fill: white !important;
+    fill: #ececec !important;
   }
   ._1enh._7q1s ._6-xg,
 ._1enh._7q1s ._6zv9 path {
-    fill: white !important;
+    fill: #ececec !important;
+  }
+  ._1enh._7q1s ._7q1i, ._1enh._7q1s ._7q0v {
+    border: none !important;
+    height: 36px !important;
+    width: 36px !important;
+  }
+  ._1enh._7q1s ._7q1i img, ._1enh._7q1s ._7q0v img {
+    height: 36px !important;
+    width: 36px !important;
   }
 
   ._o46:not(._3i_m) ._3oh-,
@@ -75,7 +90,7 @@
     background: #2c2c2c !important;
   }
   ._7i2j span:hover path {
-    fill: white !important;
+    fill: #ececec !important;
   }
 
   ._hw3 {
@@ -119,7 +134,7 @@
 ._7hu0 path,
 ._7hu1 path,
 ._7hty path {
-    fill: white !important;
+    fill: #ececec !important;
   }
 
   ._4gd0 {
